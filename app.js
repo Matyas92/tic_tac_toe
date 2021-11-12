@@ -1,10 +1,6 @@
 const brackets = document.querySelectorAll('.bracket')
 const win = document.querySelector('.win')
 
-const winX = document.querySelector('.winX')
-const winO = document.querySelector('.winO')
-
-
 // Giving a round 0 and 1 to interchange between the two players
 var rounds = 0
 var clickCounter = 0
