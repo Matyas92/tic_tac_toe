@@ -1,0 +1,71 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+     height: 100vh;
+
+}
+/* Styling the H1 */
+.win{
+
+    font-family: 'Yuji Boku', serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+
+/* Brackets */
+
+.brackets{
+    width:40%;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+.bracket{
+
+    padding: 2rem;
+    border: 2px solid black;
+    width: 10rem;
+    height: 10rem;
+
+}
+
+/* Giving here the X and O with different colors */
+
+
+.fillX::before{
+    content: "X";
+    padding: 1.4rem;
+    font-size: 4.4rem;
+    color:rgb(173, 9, 9);
+    background-color: rgb(255, 255, 255);
+}
+
+
+.fillO::before{
+    content: "O";
+
+    padding: 1.4rem;
+    font-size: 4.4rem;
+    color:rgb(44, 58, 182);
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
