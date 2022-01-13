@@ -40,8 +40,16 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
   
   
   # What’s contained in each file I created.
-  
   1. Language
+   - static\language
+     - base.css
+     - headers.css
+     - inbox.js
+     - language-quiz.css
+     - language-quiz.js
+     - login.html
+   
+
    - Templates
      - course_lst
      - created_course.html
@@ -52,14 +60,13 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
      - on_course.html
      - profile_edit.html
      - profile.html
-   - Templates
-     - course_lst
-     - created_course.html
-     - index.html
-     - language-quiz.html
-     - layout.htm
-     - login_register.html
-     - on_course.html
+   - admin.py
+   - apps.py
+   - forms.py
+   - models.py
+   - tests.py
+   - urls.py
+   - views.py
      - profile_edit.html
      - profile.html
 
