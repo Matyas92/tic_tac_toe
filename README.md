@@ -10,5 +10,9 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
 
 ##### Why I believe my project satisfies the distinctiveness and complexity requirements: #####
 
+- George Washington
+- John Adams
+- Thomas Jefferson
+
 ![This is an image](https://files.fm/thumb_show.php?i=zzepgvz5f)
 
