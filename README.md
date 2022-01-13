@@ -101,7 +101,7 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
 - [x]  python manage.py runserver    
 
 
-
+  - Landing page here to navigate
 
 ![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
 
