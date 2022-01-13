@@ -108,43 +108,43 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
 
   ### When clicked on quiz this was displayed ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/kg09871s/2.png)
 
 
   ### When coosing on any quiz by clicing on a button, here comes the page ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/hvZRGnQ9/3.png)
 
 
   ### Going back to the Home click on 'Info' on navbar this page shows up (only admin can comment) ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/bwtfqKyt/4.png)
 
   ### Click on navbar ' back to the Home click on 'Courses' displays all the courses ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/7L1v20TP/5.png)
 
 
   ### Click on for example the spanish the datas of this course displayed ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/PxdgzJmW/6.png)
 
 
   ### Click on the rounded image options displayed ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/gJ4fMpDf/7.png)
 
 
   ### Clicking on 'Create course' form displayed ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/QCyv3qvm/8.png)
 
 
   ### Clicking on 'Profile' form profile site shows up ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/44LDVJnc/9.png)
 
   ### When on 'Logout' was clicked, the login form displayed here ###
 
-![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+![This is an image](https://i.postimg.cc/MKgg3d7K/10.png)
 
