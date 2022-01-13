@@ -41,7 +41,7 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
   
   # What’s contained in each file I created.
   1. Language
-   - static\language
+    - static\language
      - base.css
      - headers.css
      - inbox.js
