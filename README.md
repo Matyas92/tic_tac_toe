@@ -95,6 +95,13 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
      to the classes that renders to the unauthenticated user to the login form.
   
 
+ #  How to run my application. #
+- [x] git repository   
+- [x]  Django, python installed check
+- [x]  python manage.py runserver    
+
+
+
 
 ![This is an image](https://files.fm/thumb_show.php?i=zzepgvz5f)
 
