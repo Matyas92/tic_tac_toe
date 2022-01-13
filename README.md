@@ -41,40 +41,59 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
   
   # What’s contained in each file I created.
   1. Language
-    - static\language - I stored here tha css and js parts
-     - headers.css -> little adjustment on the navbar
-     - inbox.js -> DOM contents whick loads the quiz, info, courses contents in the index.html and with the help of DOM it displays 
+    - static\language - I stored here tha css and js parts.
+    
+     - headers.css -> Little adjustment on the navbar.
+     
+     - index.js -> DOM contents whick loads the quiz, info, courses contents in the index.html and with the help of DOM it displays 
        with block or none the give datas. In order not to increment the number or datas, everytime when clicked on a button, the innerHTML of the given variable 
        will be nullified after in loads all the contents that were needed. Fetch API was used here with Js. Jsonified datas was sent back to display in HTML.
         
-     - language-quiz.css -> Uses animation keyframes style, with transition to make it more appealing
+     - language-quiz.css -> Uses animation keyframes style, with transition to make it more appealing.
+     
      - language-quiz.js -> Control flow method (condition precisely in this case) if the give condition is met, the DOM put into HTML and displays on the
-       language-quiz.html. A from is given here, when submitted the form gives the input name and its values when met with the request of the DOM here. 
+       language-quiz.html. A from is given here, when submitted the form gives the input name and its values when met with the request of the DOM here.
        It uses loop to compare the correct answers with the given answers in the quiz. Submitting this from according to the result it gives the next button
        ( in case above 75% ) or retry button. In case of 'Next' backend will save the result and django will keep it. In case of the retry, it loads the page 
        again in order to fill it once more. InnerText, ForEach, arrays, append method were used here mostly.
-     - login.html
+     
+     - login.css -> Basic bootstrap 5 codes here used.
    
 
    - Templates
-     - course_lst
-     - created_course.html
-     - index.html
-     - language-quiz.html
-     - layout.htm
-     - login_register.html
-     - on_course.html
-     - profile_edit.html
-     - profile.html
-   - admin.py
-   - apps.py
-   - forms.py
-   - models.py
-   - tests.py
-   - urls.py
-   - views.py
-     - profile_edit.html
-     - profile.html
+   
+     - created_course.html -> Django redirect here and gives datas so that it lists the courses from database. When clicked on a course it will render into another
+       on_course.html page. 
+       
+     - index.html -> It is the basic html which was used by index.js. Is shows the quiz, info, course datas. It also displays the finished courses and quizzes and 
+       furthermore the number of all the coures, quizzes.
+       
+     - language-quiz.html -> This page is used by language-quiz.js which activates DOMs to give HTML datas according to the abovementioned conditions.
+     
+     - layout.htm -> Basic template to use in pages.
+     
+     - login_register.html -> bootstrap page to use login form. The form is POST method which goes to django so that it saves in back-end .
+     
+     - on_course.html -> Renders the give course which was clicked on the previous page, displays the data and text, videos as well.
+      
+     - profile_edit.html -> Projects the editable forms here using django to save the changed data.
+     
+     - profile.html -> Profile with all the informations about the profile rendered with django.
+     
+   - admin.py -> registered sites imported from models.py.
+   
+   - forms.py -> Register forms here with super method with widgets, edit forms with the same features as preceding. Course creation form with the same, and review
+     form creation which is a comment style section for the admin to add texts here.
+     
+   - models.py -> Profile,Course,Quiz, Review, Comment. All with datas, some serialized which was rendered by Javascript. In Profile there is a CreateProfile form 
+     which creates a profile everytime a user registered. Also when deleting profile, the user deleted as well and vice versa. upDateProfile will give the opportunity
+     to edit the profile. The Comment class uses ordering by -date so that the newest post will be on top.
+     
+   - urls.py -> Used several urlpatterns here imported from views.
+   
+   - views.py -> Imported all the models, User, login_required method, login,logout,authenticate, reverse, render, redirect. Login required requirements are contributed
+     to the classes that renders to the unauthenticated user to the login form.
+  
 
 
 ![This is an image](https://files.fm/thumb_show.php?i=zzepgvz5f)
