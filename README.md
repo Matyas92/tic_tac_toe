@@ -100,6 +100,7 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
 - [x]  Django, python installed check
 - [x]  python manage.py runserver    
 
+#### Login as admin -> username: 1 - password : 1 ####
 
   ### Landing page here to navigate ###
 
