@@ -103,5 +103,5 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
 
 
 
-![This is an image](https://files.fm/thumb_show.php?i=zzepgvz5f)
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
 
