@@ -8,7 +8,7 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
 
 # Distinctiveness and Complexity
 
-
+Why I believe my project satisfies the distinctiveness and complexity requirements:
 
 ![This is an image](https://files.fm/thumb_show.php?i=zzepgvz5f)
 
