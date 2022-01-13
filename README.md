@@ -20,11 +20,31 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
   The Javascript looks for the form when submit steps into action, and inside the form it searches the name of the inputs in order
   to valuate the values put in them. A next (or retry) button appears according to the result. Meaning when clicked on next It 
   gives to the backend django the result to increment the given data. It depends on the context of course. This proves the complexity
-  and distinctiveness of using back-end (Django) and front-end (Javascript) in this case.
+  and distinctiveness of using back-end (Django) and front-end (Javascript) in this case. I added some css in this to animate a little.
+  
+ - The info anchor/list on the navbar directs the user to the info panel, where only the admin can post anything, mostly for the purpose
+  of conveying information about the news and informations. The javascript brings the page with DOM, it uses front-end features. User stays
+  in the same html page as in the case of the home site.
+  
+  -When clicked on the courses as mentioned above, here also the javascript front-end steps into action and using DOM it renders the page
+  using display block/none approach. When the 'click to start' pressed on any given course introduction, it also functions with DOM nad djago 
+  uses back-end to redirect the user to the page designed to the course-page. When clicked on a course, it renders the video and text.
+  The video embedded using here the EmbedVideoField which was installed by django-embed-video from pip.
+  
+  - When clicked on the rounded profile picture the bootstrap feature appear and lists the selections. When clicking on 'New Project..' or 'Profile'
+   It step into another html page using back-end django here. A left-arrow shows the way back to the javascript lead page.
+   The clickable logout in the dropdown menu also gives a new page with the selectable choices. And a message with infos shows up using Javascript
+   as well.
+   
+   The abovementioned statements - in my opinion - proves the distinctiveness and complexity of my projects. 
   
   
+  # What’s contained in each file I created.
   
-  
+  1. First list item
+   - First nested list item
+     - Second nested list item
+
 
 ![This is an image](https://files.fm/thumb_show.php?i=zzepgvz5f)
 
