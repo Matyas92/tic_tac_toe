@@ -41,12 +41,18 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
   
   # What’s contained in each file I created.
   1. Language
-    - static\language
-     - base.css
-     - headers.css
-     - inbox.js
-     - language-quiz.css
-     - language-quiz.js
+    - static\language - I stored here tha css and js parts
+     - headers.css -> little adjustment on the navbar
+     - inbox.js -> DOM contents whick loads the quiz, info, courses contents in the index.html and with the help of DOM it displays 
+       with block or none the give datas. In order not to increment the number or datas, everytime when clicked on a button, the innerHTML of the given variable 
+       will be nullified after in loads all the contents that were needed. Fetch API was used here with Js. Jsonified datas was sent back to display in HTML.
+        
+     - language-quiz.css -> Uses animation keyframes style, with transition to make it more appealing
+     - language-quiz.js -> Control flow method (condition precisely in this case) if the give condition is met, the DOM put into HTML and displays on the
+       language-quiz.html. A from is given here, when submitted the form gives the input name and its values when met with the request of the DOM here. 
+       It uses loop to compare the correct answers with the given answers in the quiz. Submitting this from according to the result it gives the next button
+       ( in case above 75% ) or retry button. In case of 'Next' backend will save the result and django will keep it. In case of the retry, it loads the page 
+       again in order to fill it once more. InnerText, ForEach, arrays, append method were used here mostly.
      - login.html
    
 
