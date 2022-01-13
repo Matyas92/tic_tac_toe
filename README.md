@@ -6,6 +6,8 @@ they made, and many things as well that I will elaborate below.
 
 Link of my video on the the final project:  Uploaded on [Youtube](https://pages.github.com/).
 
+# Distinctiveness and Complexity
+
 
 
 ![This is an image](https://files.fm/thumb_show.php?i=zzepgvz5f)
