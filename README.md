@@ -101,7 +101,50 @@ Link of my video on the the final project:  Uploaded on [Youtube](https://pages.
 - [x]  python manage.py runserver    
 
 
-  - Landing page here to navigate
+  ### Landing page here to navigate ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+
+  ### When clicked on quiz this was displayed ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+
+  ### When coosing on any quiz by clicing on a button, here comes the page ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+
+  ### Going back to the Home click on 'Info' on navbar this page shows up (only admin can comment) ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+  ### Click on navbar ' back to the Home click on 'Courses' displays all the courses ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+
+  ### Click on for example the spanish the datas of this course displayed ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+
+  ### Click on the rounded image options displayed ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+
+  ### Clicking on 'Create course' form displayed ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+
+  ### Clicking on 'Profile' form profile site shows up ###
+
+![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
+
+  ### When on 'Logout' was clicked, the login form displayed here ###
 
 ![This is an image](https://i.postimg.cc/5tVBrVYN/1.png)
 
